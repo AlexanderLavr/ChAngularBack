@@ -29,7 +29,7 @@
     "@types/cookie-parser": "^1.4.2",
     "@types/helmet": "0.0.44",
     "@types/scriptjs": "0.0.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "csurf": "^1.10.0",
     "dotenv": "^8.1.0",
     "helmet": "^3.21.2",
